@@ -1,0 +1,17 @@
+{
+  "name": "image_search",
+  "version": "1.0.0",
+  "description": "image search abstraction layer api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indes.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "j.kelsey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "google-search": "0.0.5",
+    "mongodb": "^2.2.25"
+  }
+}
